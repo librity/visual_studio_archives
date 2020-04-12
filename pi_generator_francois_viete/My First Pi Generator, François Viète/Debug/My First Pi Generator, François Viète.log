@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\librity\documents\visual studio 2015\projects\my first pi generator, françois viète\my first pi generator, françois viète\source.cpp(15): error C2632: '__int64' followed by 'double' is illegal
+c:\users\librity\documents\visual studio 2015\projects\my first pi generator, françois viète\my first pi generator, françois viète\source.cpp(19): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\my first pi generator, françois viète\my first pi generator, françois viète\source.cpp(20): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data

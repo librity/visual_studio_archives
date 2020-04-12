@@ -1,0 +1,8 @@
+﻿  Domani.cpp
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator, continuous\prime palindrome generator, continuous\domani.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator, continuous\prime palindrome generator, continuous\domani.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator, continuous\prime palindrome generator, continuous\domani.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator, continuous\prime palindrome generator, continuous\domani.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator, continuous\prime palindrome generator, continuous\domani.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  Prime Palindrome Generator, Continuous.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Prime Palindrome Generator, Continuous\Debug\Prime Palindrome Generator, Continuous.exe
+  Prime Palindrome Generator, Continuous.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Prime Palindrome Generator, Continuous\Debug\Prime Palindrome Generator, Continuous.pdb (Partial PDB)

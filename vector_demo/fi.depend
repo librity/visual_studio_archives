@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1475858853 source:c:\users\31646859\documents\fi\hadrada.cpp
+	"el.h"
+	<conio.h>
+	<string>
+	<fstream>
+	<iostream>
+	<cmath>
+	<vector>
+
+1475858853 c:\users\31646859\documents\fi\el.h
+
+1475859027 source:c:\users\31646859\documents\fi\main.cpp
+	"el.h"
+	<iostream>
+

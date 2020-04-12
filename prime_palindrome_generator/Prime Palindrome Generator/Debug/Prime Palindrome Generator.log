@@ -1,0 +1,10 @@
+﻿  Alemanni.cpp
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\prime palindrome generator\prime palindrome generator\alemanni.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  Prime Palindrome Generator.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Prime Palindrome Generator\Debug\Prime Palindrome Generator.exe
+  Prime Palindrome Generator.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Prime Palindrome Generator\Debug\Prime Palindrome Generator.pdb (Partial PDB)

@@ -1,0 +1,31 @@
+#include<iostream>
+#include<cmath>
+
+using namespace std;
+int main(){
+  int a=2, b=3, c=15;
+  cout<<"Hellodwwdwewdw World"<<endl;
+  cout<<a+c<<endl;
+  for(int x=99;x>=0;x--){
+    if (x>0){
+    cout<<x<<" bottles of beer on the wall!\n";
+    cout<<x<<" bottles of berr!\n";
+    cout<<"Take one down and pass it around,\n";
+    cout<<x-1<<" bottles of beer on the wall!\n";
+    }else{
+      cout<<"No more bottles of beer on the wall!\n";
+    cout<<x<<"No more bottles of berr!\n";
+    cout<<"Go to the store and buy us some more,\n";
+    cout<<"99 bottles of beer on the wall!\n";
+    }
+  }
+  cout<<tan(pow(c,5))<<endl;
+  cout<<cos(a-2*c+6*b)<<endl;
+  cout<<"Devorah e gorda"<<endl;
+  for(int x=0;x<=11;x++){
+  cout<<x<<endl;	
+}
+  cin>>a;cout<<a+b<<endl;
+  
+  return 0;
+}

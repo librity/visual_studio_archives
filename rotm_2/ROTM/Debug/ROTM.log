@@ -1,0 +1,16 @@
+﻿  Dep.cpp
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(28): error C2062: type 'int' unexpected
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(29): error C2143: syntax error: missing ';' before '<<'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(30): error C2143: syntax error: missing ';' before '>>'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(31): error C2143: syntax error: missing ';' before '<<'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(31): error C2086: 'int cout': redefinition
+  c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(29): note: see declaration of 'cout'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(32): error C2365: 'system': redefinition; previous definition was 'function'
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1210): note: see declaration of 'system'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(33): error C2059: syntax error: 'return'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(34): error C2059: syntax error: '}'
+c:\users\librity\documents\visual studio 2015\projects\rotm\rotm\dep.cpp(34): error C2143: syntax error: missing ';' before '}'

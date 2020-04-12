@@ -1,0 +1,12 @@
+﻿  Zeno.cpp
+  Elea.cpp
+c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(109): error C2556: 'double cos_customprecision(long double)': overloaded function differs only by return type from 'long double cos_customprecision(long double)'
+  c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(27): note: see declaration of 'cos_customprecision'
+c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(109): error C2371: 'cos_customprecision': redefinition; different basic types
+  c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(27): note: see declaration of 'cos_customprecision'
+c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(150): error C2556: 'double cos_customprecision(double)': overloaded function differs only by return type from 'long double cos_customprecision(double)'
+  c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(68): note: see declaration of 'cos_customprecision'
+c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(150): error C2371: 'cos_customprecision': redefinition; different basic types
+  c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(68): note: see declaration of 'cos_customprecision'
+c:\users\librity\documents\visual studio 2015\projects\myveryowncmath\myveryowncmath\elea.cpp(198): error C2264: 'cos_customprecision': error in function definition or declaration; function not called
+  Generating Code...

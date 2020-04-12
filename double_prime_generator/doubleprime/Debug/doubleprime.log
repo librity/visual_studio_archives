@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\librity\documents\visual studio 2015\projects\doubleprime\doubleprime\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\doubleprime\doubleprime\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\doubleprime\doubleprime\main.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\doubleprime\doubleprime\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  doubleprime.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\doubleprime\Debug\doubleprime.exe
+  doubleprime.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\doubleprime\Debug\doubleprime.pdb (Partial PDB)

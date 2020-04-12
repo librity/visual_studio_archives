@@ -1,0 +1,5 @@
+﻿  Santiago.cpp
+c:\users\librity\documents\visual studio 2015\projects\factorial trailing zeros\factorial trailing zeros\santiago.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\factorial trailing zeros\factorial trailing zeros\santiago.cpp(23): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  Factorial Trailing Zeros.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Factorial Trailing Zeros\Debug\Factorial Trailing Zeros.exe
+  Factorial Trailing Zeros.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Factorial Trailing Zeros\Debug\Factorial Trailing Zeros.pdb (Partial PDB)

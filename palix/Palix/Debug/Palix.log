@@ -1,0 +1,7 @@
+﻿  Hermann.cpp
+c:\users\librity\documents\visual studio 2015\projects\palix\palix\hermann.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\palix\palix\hermann.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\palix\palix\hermann.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\palix\palix\hermann.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Palix.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Palix\Debug\Palix.exe
+  Palix.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Palix\Debug\Palix.pdb (Partial PDB)

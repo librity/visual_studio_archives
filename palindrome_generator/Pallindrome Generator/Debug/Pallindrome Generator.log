@@ -1,0 +1,6 @@
+﻿  Fibonacci.cpp
+c:\users\librity\documents\visual studio 2015\projects\pallindrome generator\pallindrome generator\fibonacci.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\librity\documents\visual studio 2015\projects\pallindrome generator\pallindrome generator\fibonacci.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\librity\documents\visual studio 2015\projects\pallindrome generator\pallindrome generator\fibonacci.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Pallindrome Generator.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Pallindrome Generator\Debug\Pallindrome Generator.exe
+  Pallindrome Generator.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Pallindrome Generator\Debug\Pallindrome Generator.pdb (Partial PDB)

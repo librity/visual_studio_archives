@@ -1,0 +1,4 @@
+﻿  Euler.cpp
+c:\users\librity\documents\visual studio 2015\projects\project2\project2\euler.cpp(20): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Project2\Debug\Project2.pdb (Partial PDB)

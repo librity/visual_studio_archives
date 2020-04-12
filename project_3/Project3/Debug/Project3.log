@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\librity\documents\visual studio 2015\projects\project3\project3\source.c(77): warning C4101: 'incdec': unreferenced local variable
+c:\users\librity\documents\visual studio 2015\projects\project3\project3\source.c(121): warning C4101: 'j': unreferenced local variable
+c:\users\librity\documents\visual studio 2015\projects\project3\project3\source.c(116): warning C4715: 'runtm': not all control paths return a value
+  Project3.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> c:\users\librity\documents\visual studio 2015\Projects\Project3\Debug\Project3.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Thor.cpp
+c:\users\librity\documents\visual studio 2015\projects\random guessing game\random guessing game\thor.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Random Guessing Game.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Random Guessing Game\Debug\Random Guessing Game.exe
+  Random Guessing Game.vcxproj -> C:\Users\librity\Documents\Visual Studio 2015\Projects\Random Guessing Game\Debug\Random Guessing Game.pdb (Partial PDB)
